@@ -2,6 +2,7 @@ package section02;
 /*
  * 1. 논리형(boolean)
  * 	true, false 두 가지 값을 가지는 기본 자료형
+ * 	1byte
  * 
  * 선언 방법
  * 	boolean 변수명;
