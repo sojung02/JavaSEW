@@ -28,5 +28,4 @@ public class Variable03 {
 		System.out.println("byte overflow: "+ iByte);
 				
 	}
-
 }
