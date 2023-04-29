@@ -1,4 +1,4 @@
-package senction04;
+package section04;
 /*
  * 조건문
  * 	주어진 조건식의 결과에 따라 별도의 명령을 수행하도록 제어하는 명령문

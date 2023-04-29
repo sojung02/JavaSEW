@@ -1,4 +1,4 @@
-package senction04;
+package section04;
 
 public class Conditional03 {
 	public static void main(String[] args) {
